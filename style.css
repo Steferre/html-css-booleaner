@@ -75,5 +75,26 @@ header {
     padding: 0;
 }
 
+.monitor {
+    background-image: url(monitor.jpg);
+    background-size: contain;
+    width: 45%;
+    height: 40vh;
+    color: #ffffff;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.graph {
+    background-image: url(graph.jpg);
+    background-size: contain;
+    width: 45%;
+    height: 40vh;
+    color: #ffffff;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
 
 
