@@ -15,3 +15,22 @@ header {
     padding-left: 50px;
     padding-top: 25px;
 }
+
+.container {
+    height: 500px;
+    padding-left: 50px;
+}
+
+.link {
+    color: #41B6E9;
+    text-decoration: none;
+}
+
+.subtitle {
+    color: #808080;
+}
+
+.date {
+    color: #808080;
+    font-size: 11px;
+}
