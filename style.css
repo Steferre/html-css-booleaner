@@ -19,6 +19,7 @@ header {
 .container {
     width: 110vh;
     padding-left: 50px;
+    padding-top: 25px;
 }
 
 .link {
@@ -66,3 +67,13 @@ header {
 .paragrafi {
     padding-top: 25px;
 }
+
+
+.riga-1 {
+    background-color: #20a9e5;
+    color: #ffffff;
+    padding: 0;
+}
+
+
+
