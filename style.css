@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-image: url(pattern.png);
+    background-size: contain;
+    background-color: #4EA0FF;
+    height: 55px;
+}
+
+.logo {
+    width: 100px;
+    height: 25px;
+    padding-left: 50px;
+    padding-top: 25px;
+}
