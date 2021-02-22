@@ -17,7 +17,7 @@ header {
 }
 
 .container {
-    height: 500px;
+    width: 110vh;
     padding-left: 50px;
 }
 
@@ -33,4 +33,36 @@ header {
 .date {
     color: #808080;
     font-size: 11px;
+}
+
+.photo-1 {
+    display: inline-block;
+    background-image:url(tim-1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 45%;
+    height: 40vh;
+    margin-top: 25px;    
+}
+
+.photo-2 {
+    display: inline-block;
+    background-image:url(tim-2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 45%;
+    height: 40vh;
+    margin-top: 25px;    
+}
+
+.didascalie {
+    font-size: 11px;
+}
+
+.evidenziato {
+    background-color: #ffff00;
+}
+
+.paragrafi {
+    padding-top: 25px;
 }
