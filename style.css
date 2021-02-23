@@ -17,7 +17,7 @@ header {
 }
 
 .container {
-    width: 110vh;
+    width: 80%;
     padding-left: 50px;
     padding-top: 25px;
 }
@@ -36,21 +36,7 @@ header {
     font-size: 11px;
 }
 
-.photo-1 {
-    display: inline-block;
-    background-image:url(tim-1.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    width: 45%;
-    height: 40vh;
-    margin-top: 25px;    
-}
-
-.photo-2 {
-    display: inline-block;
-    background-image:url(tim-2.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
+.photo {
     width: 45%;
     height: 40vh;
     margin-top: 25px;    
@@ -88,27 +74,25 @@ table {
      width: 30%;
 }
 
-.monitor {
+#monitor {
     background-image: url(monitor.jpg);
     background-size: contain;
     background-repeat: no-repeat;
+}
+
+#graph {
+    background-image: url(graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.ext-link {
     width: 45%;
     height: 40vh;
     color: #ffffff;
     font-size: 30px;
     margin-top: 15px;
-    padding-left: 10px;
-    padding-top: 10px;
-}
-
-.graph {
-    background-image: url(graph.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    width: 45%;
-    height: 40vh;
-    color: #ffffff;
-    font-size: 30px;
+    margin-bottom: 15px;
     padding-left: 10px;
     padding-top: 10px;
 }
